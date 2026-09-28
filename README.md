@@ -1,4 +1,4 @@
-# Systems-Driven Upgrade Game
+# Wavebreaker
 
 A small 2D arcade-style game built with **Python** and **Pygame**. The player moves horizontally, shoots incoming enemies, earns coins, and purchases upgrades between waves.
 
