@@ -1,0 +1,27 @@
+"""Shared constants for the game."""
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60
+
+PLAYER_WIDTH = 50
+PLAYER_HEIGHT = 50
+PLAYER_START_Y = SCREEN_HEIGHT - PLAYER_HEIGHT - 20
+
+BULLET_WIDTH = 8
+BULLET_HEIGHT = 15
+BULLET_SPEED = 10  # Intentionally independent of the player's speed upgrade.
+
+ENEMY_SIZE = 50
+
+# Colors
+BACKGROUND = (30, 30, 40)
+PANEL = (45, 45, 60)
+BUTTON = (60, 65, 90)
+GREEN = (0, 255, 150)
+DARK_GREEN = (0, 180, 100)
+RED = (220, 60, 60)
+YELLOW = (255, 230, 0)
+GOLD = (255, 215, 0)
+WHITE = (255, 255, 255)
+LIGHT_GRAY = (200, 200, 200)
